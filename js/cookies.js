@@ -1,7 +1,7 @@
 const CONSENT_KEY = 'cb-consulting-cookie-consent';
 
 function initCookieBanner() {
-  const cookieBanner = document.getElementById('cookie-banner-card');
+  const cookieBanner = document.getElementById('cookie-banner');
   const acceptBtn = document.getElementById('cookie-accept');
   const declineBtn = document.getElementById('cookie-decline');
   const closeBtn = document.getElementById('cookie-close');
