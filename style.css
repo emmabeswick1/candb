@@ -321,7 +321,7 @@ a { color: var(--accent); text-decoration: none; }
   padding: 104px 0 96px;
   border-bottom: 1px solid var(--border);
   position: relative;
-  background-image: url('https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop');
+  background-image: url('images/approach-landmark.png');
   background-size: cover;
   background-position: center 35%;
   background-attachment: fixed;
@@ -541,7 +541,7 @@ a { color: var(--accent); text-decoration: none; }
   padding: 96px 0 104px;
   position: relative;
   overflow: hidden;
-  background-image: url('../../uploads/london11111.png');
+  background-image: url('images/contact-background.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
